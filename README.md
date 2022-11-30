@@ -6,7 +6,7 @@ Domain: Healthcare
 
 Table of Contents-
 
-    Information
+    Information of the Project
 
     Reason for Choosing this Dataset ?
     Source
